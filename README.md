@@ -1,6 +1,6 @@
 # Кодерилло Аристарх Акакиевич
-<img style="width:300px;float: left;" src="https://user-images.githubusercontent.com/122922256/213245346-a483fbfe-c524-4dc3-abad-09f02ce71c53.png">
 
+![image](https://user-images.githubusercontent.com/122922256/213254067-8df3871b-50e6-4566-8a1c-d0d8c3b007b8.png)
 
 ## О себе
 Одмен
